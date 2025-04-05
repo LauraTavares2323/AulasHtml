@@ -1,0 +1,17 @@
+#LadoLado{
+    border: 1px black dotted;
+    display: inline;
+}
+
+#TelaCheia{
+    border: 1px black dotted;
+    display: block;
+}
+
+#Naoaparece{
+    display:none;
+}
+
+section{
+     margin:30px;
+}

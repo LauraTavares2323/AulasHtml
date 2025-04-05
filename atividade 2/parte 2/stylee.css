@@ -1,0 +1,53 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.primeiro-container{
+    margin-bottom:500px;
+}
+
+.primeiro-paragrafo{
+    margin-left: 39px;
+    margin-right: 47px;
+
+    border: 2px black solid;
+
+    display: inline;
+
+    background-color: blueviolet;
+}
+
+.segundo-paragrafo{
+    margin-left: 1000px;
+    margin-right: 47px;
+
+    border: 2px black solid;
+
+    display: inline;
+
+    background-color:blue;
+}
+
+.terceiro-paragrafo{
+    margin-left: 39px;
+    margin-right: 47px;
+
+    border: 2px black solid;
+
+    display: inline;
+
+    background-color:brown;
+}
+
+.quarto-paragrafo{
+    margin-left: 1000px;
+    margin-right: 47px;
+
+    border: 2px black solid;
+
+    display: inline;
+
+    background-color:brown;
+
+}

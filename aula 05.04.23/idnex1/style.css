@@ -1,0 +1,19 @@
+p{
+    color:aquamarine;
+    font-size: 30px;
+}
+
+.sessao{
+    color: blueviolet;
+    border: 1px solid black;
+}
+
+.textoprimario{
+    color: green;
+    border: 1px dotted black;
+}
+
+#texto-primario{
+    color: blue;
+    border: 2px dotted black;
+}
